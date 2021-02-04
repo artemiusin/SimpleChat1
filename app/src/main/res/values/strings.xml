@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IurisConsultis</string>
+    <string name="send">Отправить</string>
+    <string name="et_hint_message">введите вопрос юристу</string>
+</resources>

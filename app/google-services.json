@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "973036837553",
+    "project_id": "iurisconsultis-b09a4",
+    "storage_bucket": "iurisconsultis-b09a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973036837553:android:55ad518eb67afc6450e090",
+        "android_client_info": {
+          "package_name": "com.example.iurisconsultis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973036837553-gcqati72bgf20ogfd155ojo7mk0588c3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu-aE60pPcEhSRjIcdICRqzcWHj5PTaj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973036837553-gcqati72bgf20ogfd155ojo7mk0588c3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
