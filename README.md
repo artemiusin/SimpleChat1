@@ -1,0 +1,2 @@
+# SimpleChatFirstApp
+Очень протсой чат
