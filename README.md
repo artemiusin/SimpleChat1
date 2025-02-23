@@ -1,2 +1,2 @@
 # SimpleChatFirstApp
-Очень простой чат
+Простой чат
